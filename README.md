@@ -31,15 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerth31-code&show_icons=true&locale=en" alt="keerth31-code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerth31-code&" alt="keerth31-code" /></p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthi31-code&theme=tokyonight" height="160px"/>
-</p>
 
 ---
 
