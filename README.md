@@ -48,6 +48,7 @@
 
 ⭐ Thanks for visiting my profile! Keep learning and growing 😊
 
+![GitHub Pacman](https://github.com/keerthi31-code/keerthi31-code/blob/output/pacman.svg)
 <!--
 **keerthi31-code/keerthi31-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
