@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/keerth m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerth m" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keerthi-m-246302398/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerth m" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/keerthi muchha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="keerthi muchha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthi" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/keerthi31-code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
