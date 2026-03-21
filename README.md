@@ -1,5 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm M. Keerthi</h1>
+![PacMan](https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/pacman.svg)
 <h3 align="center">CSE (AI-ML) Student | Python Learner | Future AI Engineer</h3>
 
 ---
