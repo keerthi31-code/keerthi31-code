@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: keerthi31-code
           outputs: |
