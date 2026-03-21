@@ -1,6 +1,5 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm M. Keerthi</h1>
-![PacMan](https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/pacman.svg)
 <h3 align="center">CSE (AI-ML) Student | Python Learner | Future AI Engineer</h3>
 
 ---
@@ -48,6 +47,9 @@
 ---
 
 ⭐ Thanks for visiting my profile! Keep learning and growing 😊
+
+
+![PacMan](https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/pacman.svg)
 
 <!--
 **keerthi31-code/keerthi31-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
