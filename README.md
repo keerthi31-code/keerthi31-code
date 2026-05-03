@@ -1,34 +1,27 @@
 <h1 align="center">Hi 👋, I'm M. Keerthi</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
-<h3 align="center">CSE (AI-ML) Student | Python Learner | Future AI Engineer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keerthi31-code&label=Profile%20views&color=0e75b6&style=flat" alt="keerthi31-code" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthi31-code" alt="keerthi31-code" /></a> </p>
 
-## 🌟 About Me
+- 🌱 I’m currently learning **python**
 
-- 🎓 B.Tech 3rd Year – CSE (AI & ML)  
-- 🐍 Currently learning Python  
-- 🤖 Passionate about Artificial Intelligence & Machine Learning  
-- 💡 Interested in Software Development, Problem Solving & Backend Development  
-- 🌱 Always curious to learn new technologies  
-- 🎯 Goal: Become a Skilled AI Engineer  
+- 📫 How to reach me **muchhakeerthi@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://github.com/keerthi31-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/keerthi31-code" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://github.com/keerthi31-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://github.com/keerthi31-code" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://github.com/keerthi31-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://github.com/keerthi31-code" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/500055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500055" height="30" width="40" /></a>
+</p>
 
-## 🛠 Tech & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-- Python  
-- Git & GitHub  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keerthi31-code&show_icons=true&locale=en&layout=compact" alt="keerthi31-code" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&locale=en" alt="keerthi31-code" /></p>
 
-## 📫 Contact Me
-
-📧 muchhakeerthi@gmail.com  
-
----
-
-## 🌐 Connect with me
-
-[LinkedIn](#)  
-[GitHub](#)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keerthi31-code&" alt="keerthi31-code" /></p>
