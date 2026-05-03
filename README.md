@@ -29,6 +29,8 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/github-contribution-grid-snake.svg)
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=radical"alt="GitHub Stats" />
@@ -43,3 +45,5 @@
 </p>
 
 </div>
+
+
