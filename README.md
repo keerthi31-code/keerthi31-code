@@ -32,18 +32,15 @@
 ![Snake animation](https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/github-contribution-grid-snake.svg)
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=keerthi31-code&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthi31-code&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi31-code&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-</div>
 
