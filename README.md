@@ -33,6 +33,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi31-code&layout=compact&theme=radical&langs_count=8" />
   <img src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
