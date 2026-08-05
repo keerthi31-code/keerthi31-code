@@ -1,22 +1,36 @@
 # Hi 👋, I'm M. Keerthi
 
-### A passionate Software Developer from India 🇮🇳
+## 🚀 A Passionate Software Developer from India 🇮🇳
 
 <img src="https://komarev.com/ghpvc/?username=keerthi31-code&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=keerthi31-code&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=keerthi31-code&theme=radical&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🌱 Currently learning **Data Structures & Algorithms**
+- 💻 Interested in **Software Engineering, AI & Backend Development**
+- 🎯 Goal: Become a Software Engineer
 
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=cpp" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
 </p>
 
 ---
@@ -24,17 +38,19 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/keerthi31-code">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="https://leetcode.com/u/keerthi31-code/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+<a href="https://linkedin.com/in/keerthi31-code">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="https://www.hackerrank.com/keerthi31-code">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/keerthi31-code/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/keerthi31-code">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -42,24 +58,47 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/keerthi31-code/keerthi31-code/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=radical&cache_seconds=1800" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi31-code&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" height="170"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=keerthi31-code&theme=radical" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keerthi31-code&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthi31-code&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
-## ⭐ Thanks for visiting my profile!
+# 🔥 GitHub Streak
 
-> *"Code • Learn • Build • Grow 🚀"*
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=keerthi31-code&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthi31-code&theme=react-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## ⭐ Thanks for Visiting!
+
+<p align="center">
+
+### 💙 *Code • Learn • Build • Grow* 🚀
+
+</p>
